@@ -1,0 +1,7 @@
+C:\Users\Mohamed Hosny\Desktop\simpleperfchart_src\SpPerfChart\bin\Debug\SpPerfChart.dll
+C:\Users\Mohamed Hosny\Desktop\simpleperfchart_src\SpPerfChart\bin\Debug\SpPerfChart.pdb
+C:\Users\Mohamed Hosny\Desktop\simpleperfchart_src\SpPerfChart\obj\Debug\SpPerfChart.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed Hosny\Desktop\simpleperfchart_src\SpPerfChart\obj\Debug\SpPerfChart.PerfChart.resources
+C:\Users\Mohamed Hosny\Desktop\simpleperfchart_src\SpPerfChart\obj\Debug\SpPerfChart.csproj.GenerateResource.Cache
+C:\Users\Mohamed Hosny\Desktop\simpleperfchart_src\SpPerfChart\obj\Debug\SpPerfChart.dll
+C:\Users\Mohamed Hosny\Desktop\simpleperfchart_src\SpPerfChart\obj\Debug\SpPerfChart.pdb

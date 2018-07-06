@@ -1,0 +1,12 @@
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\bin\Debug\Car Security System.exe.config
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\bin\Debug\Car Security System.exe
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\bin\Debug\Car Security System.pdb
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\obj\Debug\Car Security System.csprojResolveAssemblyReference.cache
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\obj\Debug\Car_Security_System.Form1.resources
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\obj\Debug\Car_Security_System.Properties.Resources.resources
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\obj\Debug\Car Security System.csproj.GenerateResource.Cache
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\obj\Debug\Car Security System.exe
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\obj\Debug\Car Security System.pdb
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\obj\Debug\Car_Security_System.Form2.resources
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\obj\Debug\Car_Security_System.Form3.resources
+c:\users\mohamed hosny\documents\visual studio 2017\Projects\Car Security System\Car Security System\bin\Debug\FaceSDK.NET.dll

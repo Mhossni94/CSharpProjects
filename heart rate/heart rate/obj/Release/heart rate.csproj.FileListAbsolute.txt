@@ -1,0 +1,15 @@
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\obj\Release\heart_rate.Form1.resources
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\obj\Release\SpPerfChart.PerfChart.resources
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\obj\Release\heart_rate.Properties.Resources.resources
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\obj\Release\heart rate.csproj.GenerateResource.Cache
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\bin\Release\heart rate.exe.config
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\bin\Release\heart rate.exe
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\bin\Release\heart rate.pdb
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\bin\Release\ECGCpluginaECG.dll
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\bin\Release\ScottPlot.dll
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\bin\Release\SpPerfChart.dll
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\bin\Release\ECGConversion.dll
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\bin\Release\ScottPlot.pdb
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\obj\Release\heart rate.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\obj\Release\heart rate.exe
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\heart rate\obj\Release\heart rate.pdb

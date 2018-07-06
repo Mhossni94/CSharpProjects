@@ -1,0 +1,8 @@
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\ScottPlot-2017-07-30\ScottPlot\bin\Release\ScottPlot.dll
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\ScottPlot-2017-07-30\ScottPlot\bin\Release\ScottPlot.pdb
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\ScottPlot-2017-07-30\ScottPlot\obj\Release\ScottPlot.ScottPlotUC.resources
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\ScottPlot-2017-07-30\ScottPlot\obj\Release\ScottPlot.ucInteractive.resources
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\ScottPlot-2017-07-30\ScottPlot\obj\Release\ScottPlot.csproj.GenerateResource.Cache
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\ScottPlot-2017-07-30\ScottPlot\obj\Release\ScottPlot.dll
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\ScottPlot-2017-07-30\ScottPlot\obj\Release\ScottPlot.pdb
+C:\Users\Mohamed Hosny\documents\visual studio 2017\Projects\heart rate\ScottPlot-2017-07-30\ScottPlot\obj\Release\ScottPlot.csprojResolveAssemblyReference.cache
